@@ -11,6 +11,6 @@ Feature: FizzBuzz
     Examples:
       | number | response |
       | 1      | 1        |
-      | 3      | Fizz     |
+      | 3      | Fozz     |
       | 5      | Buzz     |
       | 15     | FizzBuzz |
