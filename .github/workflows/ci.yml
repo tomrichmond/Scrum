@@ -21,3 +21,6 @@ jobs:
 
             - name: Run PHPUnit tests
               run: ./vendor/bin/phpunit
+
+            - name: Run Behat tests
+              run: ./vendor/bin/behat --strict
